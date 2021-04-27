@@ -219,8 +219,7 @@
     </div>
 
 
-        <!-- Instagram Feed Area -->
-            <!-- Follow Area End -->
+
 
     <!-- Footer Area Start -->
     <footer class="footer-area">
@@ -230,7 +229,7 @@
                     <div class="footer-content d-flex align-items-center justify-content-between">
                         <!-- Copywrite Text -->
                         <div class="copywrite-text">
-                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->Thanks for visting! </p>
+                            <p>Thanks for visting! </p>
                         </div>
                         <!-- Footer Logo -->
 
