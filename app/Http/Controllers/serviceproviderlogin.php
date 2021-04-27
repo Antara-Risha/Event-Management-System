@@ -15,7 +15,7 @@ class serviceproviderlogin extends Controller
         $email = $request->spemail;
         $password = $request->sppassword;
         $user = serviceproviderregister::where('email', $email)->where('password', $password)->first();
-
+        //$user =auth()->user();
 
         if($user)
         {
@@ -29,6 +29,7 @@ class serviceproviderlogin extends Controller
 
     public function approveOrder($order_id)
     {
+        //$user =auth()->user();
         $order = dreamwaver_booking::findOrFail($order_id);
         $order->status = 'approved';
         $order->save();
@@ -38,11 +39,13 @@ class serviceproviderlogin extends Controller
     }
     public function rejectOrder($order_id)
     {
+       // $user =auth()->user();
+        //$orders=dreamwaver_booking::where('service_provider_name',$user->name)->get();
         $order = dreamwaver_booking::findOrFail($order_id);
         $order->status = 'rejected';
         $order->save();
+        //return redirect()->route('serviceProviderDashboard')->with('orders',$order);
         return "Rejected";
-
     }
 
 

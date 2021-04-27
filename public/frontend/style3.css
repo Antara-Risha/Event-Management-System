@@ -1,0 +1,19 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(img/bg-img/pexels-dzenina-lukac-754263.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+	color: #ee918d;
+	
+}
+h1
+{
+	background-color:#0e2433;
+}

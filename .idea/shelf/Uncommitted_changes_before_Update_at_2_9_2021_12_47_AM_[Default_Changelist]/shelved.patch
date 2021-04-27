@@ -6,9 +6,9 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/workspace.xml b/.idea/workspace.xml
---- a/.idea/workspace.xml	(revision 2206d1dfa1ed7c52b128646702c061b4f2595d4e)
-+++ b/.idea/workspace.xml	(date 1612796214782)
-@@ -1,30 +1,7 @@
+--- a/.idea/workspace.xml	(revision 5f0356cbd70182c84d8ecea1d83ca1fddd5b8166)
++++ b/.idea/workspace.xml	(date 1612809881700)
+@@ -1,29 +1,8 @@
  <?xml version="1.0" encoding="UTF-8"?>
  <project version="4">
    <component name="ChangeListManager">
@@ -33,45 +33,43 @@ diff --git a/.idea/workspace.xml b/.idea/workspace.xml
 -      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_5_2021_8_54_PM__Default_Changelist_.xml" beforeDir="false" />
 -      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_6_2021_8_49_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
 -      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_6_2021_8_49_PM__Default_Changelist_.xml" beforeDir="false" />
--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    <list default="true" id="c674b53b-6d1b-49a7-af28-74683b70dd0c" name="Default Changelist" comment="hudai">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 -      <change beforePath="$PROJECT_DIR$/resources/views/layouts/dreamwaver_booking.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/dreamwaver_booking.blade.php" afterDir="false" />
--    </list>
-+    <list default="true" id="c674b53b-6d1b-49a7-af28-74683b70dd0c" name="Default Changelist" comment="css added to dreamwaver_booking.blade.php" />
+     </list>
      <option name="SHOW_DIALOG" value="false" />
      <option name="HIGHLIGHT_CONFLICTS" value="true" />
-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-@@ -207,7 +184,7 @@
-       <workItem from="1612244790967" duration="276000" />
-       <workItem from="1612330026091" duration="2366000" />
-       <workItem from="1612544608126" duration="651000" />
--      <workItem from="1612762204587" duration="4319000" />
-+      <workItem from="1612762204587" duration="4969000" />
-     </task>
-     <task id="LOCAL-00001" summary="Linking Up Pages">
-       <created>1608964807057</created>
-@@ -272,7 +249,14 @@
+@@ -48,6 +27,7 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="PhpWorkspaceProjectConfiguration">
+     <include_path>
+@@ -272,7 +252,14 @@
        <option name="project" value="LOCAL" />
        <updated>1609952201770</updated>
      </task>
 -    <option name="localTasksCounter" value="10" />
-+    <task id="LOCAL-00010" summary="css added to dreamwaver_booking.blade.php">
-+      <created>1612795329557</created>
++    <task id="LOCAL-00010" summary="hudai">
++      <created>1612809127570</created>
 +      <option name="number" value="00010" />
 +      <option name="presentableId" value="LOCAL-00010" />
 +      <option name="project" value="LOCAL" />
-+      <updated>1612795329557</updated>
++      <updated>1612809127570</updated>
 +    </task>
 +    <option name="localTasksCounter" value="11" />
      <servers />
    </component>
    <component name="TypeScriptGeneratedFilesManager">
-@@ -302,7 +286,8 @@
+@@ -302,7 +289,8 @@
      <MESSAGE value="serviceprovider login not successful" />
      <MESSAGE value="dreamwaver orderbooking complete." />
      <MESSAGE value="html gone and route fixed,page moves good" />
 -    <option name="LAST_COMMIT_MESSAGE" value="html gone and route fixed,page moves good" />
-+    <MESSAGE value="css added to dreamwaver_booking.blade.php" />
-+    <option name="LAST_COMMIT_MESSAGE" value="css added to dreamwaver_booking.blade.php" />
++    <MESSAGE value="hudai" />
++    <option name="LAST_COMMIT_MESSAGE" value="hudai" />
    </component>
    <component name="XSLT-Support.FileAssociations.UIState">
      <expand />
