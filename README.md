@@ -1,3 +1,21 @@
+# Event Management System
+It is a website which will serve the purpose of event planning, organizing and management and provide all the services in the same place.
+
+## Follow the instruction to Run the project 
+1.Clone your project
+
+2.Go to the folder application using cd command on your cmd or terminal
+
+3.Run composer install on your cmd or terminal
+
+4.Run XAMPP control panel  active MySql  and Apache
+
+5.Run php artisan migrate
+
+6.Run php artisan serve
+
+7.Go to http://localhost:8000/
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -6,8 +24,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-#Event Management System
-It is a website which will serve the purpose of event planning, organizing and management and provide all the services in the same place.
+
 
 ## About Laravel
 
