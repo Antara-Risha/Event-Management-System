@@ -6,6 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+#Event Management System
+It is a website which will serve the purpose of event planning, organizing and management and provide all the services in the same place.
 
 ## About Laravel
 
